@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-reating a new branch .
-=======
-reating a new branch .
->>>>>>> feature1
+Readme first. I want to go home!
