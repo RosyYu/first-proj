@@ -1,1 +1,5 @@
-reating a new branch and test sth.
+<<<<<<< HEAD
+reating a new branch .
+=======
+reating a new branch .
+>>>>>>> feature1
